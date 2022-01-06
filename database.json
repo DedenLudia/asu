@@ -1,11 +1,11 @@
 {
   "users": {
-    "6289647417373@s.whatsapp.net": {
+    "62882001135957@s.whatsapp.net": {
       "exp": 9999999,
       "limit": 9999,
       "lastclaim": 0,
       "registered": false,
-      "name": "Bintangp02",
+      "name": "Fahri Botz",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -20,7 +20,7 @@
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
-      "name": "BPBOT",
+      "name": "Fahri Botz",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -32,7 +32,7 @@
     }
   },
   "chats": {
-    "6289647417373@s.whatsapp.net": {
+    "62882001135957@s.whatsapp.net": {
       "isBanned": false,
       "welcome": false,
       "detect": false,
